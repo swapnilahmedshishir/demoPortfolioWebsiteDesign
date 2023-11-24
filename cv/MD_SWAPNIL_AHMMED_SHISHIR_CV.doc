@@ -1,0 +1,942 @@
+
+
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<head>
+
+  <style type="text/css">
+        Body {
+            background-color: #FFFFFF;
+            margin-left: 0px;
+            margin-top: 10px;
+            margin-right: 0px;
+            margin-bottom: 10px;
+            font-family: Verdana, Arial, Helvetica, sans-serif;
+            color: #666666;
+        }
+
+        .BDJApplicantsName {
+            background: #ffffff;
+            font-size: 18px;
+            font-weight: bold;
+            color: #0b5f8a;
+            padding-left: 7px;
+            padding-top: 16px;
+            padding-bottom: 3.5px;
+        }
+
+        .BDJHeadline01 {
+            background: #f5f5f5;
+            font-size: 12px;
+            font-weight: bold;
+            padding-left: 2px;
+            padding-top: 2px;
+            padding-bottom: 2px;
+        }
+
+        .BDJBoldText01 {
+            font-size: 11px;
+            font-weight: bold;
+            padding-left: 2px;
+            padding-top: 2px;
+            padding-bottom: 2px;
+        }
+
+        .BDJNormalText01 {
+            font-size: 11px;
+            font-weight: normal;
+            padding-left: 2px;
+            padding-top: 7px;
+            padding-bottom: 10px;
+        }
+
+        .BDJNormalText02 {
+            font-size: 11px;
+            font-weight: normal;
+            padding-left: 2px;
+            padding-top: 2px;
+            padding-bottom: 2px;
+        }
+
+        .BDJNormalText03 {
+            font-size: 11px;
+            font-weight: normal;
+            padding-left: 7px;
+            padding-top: 2px;
+            padding-bottom: 2px;
+        }
+
+        .BDJNormalText04 {
+            font-size: 9px;
+            font-weight: normal;
+            padding-left: 7px;
+            padding-top: 2px;
+            padding-bottom: 2px;
+            height:2px
+        }
+
+        .BDJCopyRight {
+            font-size: 9px;
+            font-weight: normal;
+            padding-left: 7px;
+            padding-top: 2px;
+            padding-bottom: 2px;
+            color: #000066;
+        }
+
+        .tableWithBorder {
+            border-top: 1px solid #dddddd;
+            border-left: 1px solid #dddddd;
+            border-bottom: 1px solid #dddddd;
+            font-size: 11px;
+            font-weight: normal;
+        }
+
+        .tableColumnHead {
+            border-right: 1px solid #dddddd;
+        }
+
+        .tableGeneralCell {
+            border-right: 1px solid #dddddd;
+            border-top: 1px solid #dddddd;
+        }
+
+    
+		em 
+		{
+		font-style: normal;/* / Removes italics /*/
+		text-decoration: underline; /*/ Makes underline /*/
+        } 
+        .sr-only{
+            display:none;
+        }
+ 
+    </style>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta charset="utf-8">
+
+ 
+</head>
+
+<script>
+var g_GCPDomainNameForJs='https://mybdjobs.bdjobs.com';
+var g_GCPPhotosDomainNameForJs='https://my.bdjobs.com/';
+var g_GCPDomainNameWithOutHttpsForJs = 'mybdjobs.bdjobs.com'
+</script>
+
+</head>
+<body style="font-family:Verdana, Geneva, sans-serif; font-size:11px;">
+
+
+<table width="100%" border="0">
+  <tr>
+    
+    <td align="right"><span class="style5">Powered By <span class="style1">B</span><span class="style2">d</span><span class="style3">jobs</span>.<span class="style4">com</span></span></td>
+  </tr>
+</table>
+	
+        
+
+	<link type="text/css" rel="stylesheet" href="https://mybdjobs.bdjobs.com/css/colorbox.css">
+    <link rel="stylesheet" type="text/css" href="https://mybdjobs.bdjobs.com/css/responsive.css">
+	<link rel="stylesheet" type="text/css" href="https://mybdjobs.bdjobs.com/css/webfonts.css">    
+    <link type="text/css" rel="stylesheet" href="https://mybdjobs.bdjobs.com/css/view_resume_inline.css">	
+    <!-- <link rel="stylesheet" type="text/css" href="https://mybdjobs.bdjobs.com/css/corporate-icon-font.css"> -->
+  
+
+<style>
+	.spanJobPos
+	{
+		background-color: #e0e0e0;
+		color: #333333;
+		border-radius: 2px;
+		padding: 4px 8px;
+		font-size: 12px; 
+		font-weight: normal;
+		margin-bottom: 10px;
+	}
+	.ForHeaderDivAlign{
+		display: inline-block;
+		width: 100%;
+		overflow-x: auto;			
+	}   
+	.BDJGrayArial11px
+	{
+		padding-left:5px; 
+		margin:10px auto 10px auto;
+		width:100%;/*600px;*/ 
+	}
+
+	.box {  
+		width:100%;/*600px;*/  
+		margin:10px auto 10px auto; 
+		display:table; 
+	}  
+	.box .box-row {  
+		display:table-row;  
+	}  
+	.box .box-cell {  
+		display:table-cell;  
+		/*padding:10px;  */
+	}  
+	.box .box-cell.box1 {     
+		vertical-align:top;
+		width:458px; 
+	}  
+	.box .box-cell.box2 {  
+		width:16px;
+	}  
+	.box .box-cell.box3 {  
+		width:126px; 
+		vertical-align:middle;
+		
+	} 
+	
+	.box .box-cell.box_new1 {  
+		vertical-align:top;
+		width:600px;
+		margin:15px auto 15px auto;		
+	}  
+		
+	.box .box-cell.box_new2 {  
+		vertical-align:top;
+		width:600px;
+		margin:15px auto 15px auto;		
+	}
+
+	.BDJHeadline01 {
+		background: #f5f5f5;
+		font-size: 15px;
+		font-weight: bold;
+		padding-top: 3px;
+		padding-left: 2px;
+		padding-bottom: 2px;
+		line-height: 24px;    
+		margin: 10px auto 10px auto;
+		width: 100%; /*600px*/
+	}
+
+	.BDJNormalText01 {
+		font-size: 14px;
+		font-weight: normal;
+		padding-top: 7px;
+		padding-bottom: 10px;
+		padding-left: 5px;
+		margin: 10px auto 10px auto;
+		width: 100%; /*600px*/
+	}           
+</style>
+
+<!--LC Converted CV:-Start-->
+
+
+		<div class="box">  
+			<div class="box-row">  
+				<div class="box-cell box_new1" align="left" style="padding-bottom:24px;">
+					<!--amcat certificate-->
+												
+					<!--training certificate-->							
+					
+				</div>							
+			</div>  
+		</div>		
+		  
+	<table style="width: 100%;">
+		<tbody><tr>             
+            <td align="left"> 
+                         
+                <div class="BDJApplicantsName " id="readByName">
+                    MD SWAPNIL AHMMED SHISHIR                		
+            	</div>		        
+
+				
+					
+					<div class="BDJNormalText04">
+						<img src="https://mybdjobs.bdjobs.com/mybdjobs/images/limg.png" alt="">&nbsp;NARINDA, Wari TSO, Sutrapur, Dhaka 1203
+					</div> 			
+				
+					<div class="BDJNormalText04">
+						<img src="https://mybdjobs.bdjobs.com/mybdjobs/images/spimg.png" alt="contact phone icon">
+				01766882298,8801602555023,8801841345387	
+				</div> 				
+				
+				
+					<div class="BDJNormalText04">
+						<img src="https://mybdjobs.bdjobs.com/mybdjobs/images/eimg.png" alt="email icon">
+                ahmedshishirusa@gmail.com
+                        ,
+                swebcoderservice@gmail.com    
+			
+				</div> 	
+
+				                     
+            </td>              
+            
+        		
+        		
+				<td align="right">
+					<span>
+						<img style="border: 1px solid #dddddd;" src="https://storage.googleapis.com/bdjobs/mybdjobs/photos/4425001-4450000/1784448189y0t1x.jpg?var=2xc6f73hC05WrA1" width="124" height="135" alt="job seeker photo">
+					<span>
+				</span></span></td>					
+			
+            
+        </tr>  
+	</tbody></table>
+	 
+	<div class="BDJHeadline01" role="heading" aria-level="2" align="left">
+          <em>Career Objective:</em>
+	</div> 
+	<div class="BDJNormalText01" align="left">
+		I`m shishir I love to learn new technology and coding. I am self-learner and experience in 3y web development. I am very enjoy this work.
+
+I work with the following tools :
+ HTML5
+ CSS3
+ Bootstrap 4 &amp; 5
+ JavaScript 
+ React
+ Redux
+ MUI
+			
+    </div>
+        
+	<div class="BDJHeadline01" role="heading" aria-level="2" align="left">
+         <em>Career Summary:</em>
+	</div>
+	<div class="BDJNormalText01" align="left">
+		I`m swapnil ahmed shishir and  having more than 3 years of experience as an front end web development . I can rely on me to successfully web developer your golden lucky project.<br><br>I love to learn new technology and coding. I am self-learner web developer. In last 3 year learning web development in YouTube, Google, w3school , FreeCodeCamp, ChatGpt  etc. I am very enjoy this work.<br><br>I can also consult you on the best project management tool.      
+    </div>	
+
+   <div class="BDJHeadline01" role="heading" aria-level="2" align="left">    
+   	 <em>Special Qualification:</em>
+   </div> 
+   <div class="BDJNormalText01" align="left">
+    	I work with the following tools :<br>✪ HTML5<br>✪ CSS3<br>✪ Bootstrap 4 &amp; 5<br>✪ SASS<br>✪ JavaScript<br>✪ React <br>✪ Redux<br>✪ TypeScript<br>✪ REST API<br>✪ MUI<br>✪ Tailwind CSS <br>✪ Responsive Website<br>✪ Landing page
+    </div>  
+
+<!--genweb done here-->
+
+	
+	<div class="BDJHeadline01" role="heading" aria-level="2" align="left">
+        <em>Academic Qualification:</em>
+	</div> 
+	<div class="ForHeaderDivAlign">				
+		<table border="0" cellpadding="0" cellspacing="0" align="center" width="600" style="border-top:1px solid #dddddd;border-left:1px solid #dddddd;border-bottom:1px solid #dddddd;  font-size:11px; font-weight:normal;">	
+			<tbody>
+				<tr>					
+					<th width="15%" style="border-right:1px solid #dddddd;padding:3px; text-align:center;">Exam Title</th>					
+					<th width="15%" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px; text-align:center;">Concentration/Major</th>								
+					<th width="20%" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px; text-align:center;"> Institute </th>
+					<th width="13%" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px; text-align:center;">Result</th>				
+										
+						<td width="12.5%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;text-align:center;"><strong>Pas.Year</strong></td> 				   
+										
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;text-align:center;"><strong>Achievement</strong></td>
+					
+				</tr>
+								
+				
+						<tr>
+						
+						<td width="20%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Bachelor of Science (BSc)					 
+						</td>
+						
+						
+						<td width="20%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Science					 
+						</td>
+						
+						
+						<td width="20%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							University of Dhaka						 				
+						</td>
+
+						
+						<td width="12.5%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Enrolled					 					
+						</td>
+
+						
+							<td width="12.5%" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;" align="center">
+							2024						  
+							</td>
+						
+							<td '15%'="" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;" align="center">
+							Zoology
+							
+							</td>					
+						
+						</tr><tr>
+						
+						<td width="20%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							HSC					 
+						</td>
+						
+						
+						<td width="20%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Science					 
+						</td>
+						
+						
+						<td width="20%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Bera College						 				
+						</td>
+
+						
+						<td width="12.5%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+												 					
+						</td>
+
+						
+							<td width="12.5%" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;" align="center">
+							2021						  
+							</td>
+						
+							<td '15%'="" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;" align="center">
+							4.42
+							
+							</td>					
+						
+						</tr><tr>
+						
+						<td width="20%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							SSC					 
+						</td>
+						
+						
+						<td width="20%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Science					 
+						</td>
+						
+						
+						<td width="20%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Galaxy school and college						 				
+						</td>
+
+						
+						<td width="12.5%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+												 					
+						</td>
+
+						
+							<td width="12.5%" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;" align="center">
+							2018						  
+							</td>
+						
+							<td '15%'="" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;" align="center">
+							4.33
+							
+							</td>					
+						
+						</tr><tr>
+						
+						<td width="20%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							JSC					 
+						</td>
+						
+						
+						<td width="20%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+												 
+						</td>
+						
+						
+						<td width="20%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Bharenga Academy						 				
+						</td>
+
+						
+						<td width="12.5%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+												 					
+						</td>
+
+						
+							<td width="12.5%" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;" align="center">
+							2016						  
+							</td>
+						
+							<td '15%'="" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;" align="center">
+							4.98
+							
+							</td>					
+								
+			</tr></tbody> 
+		</table> 	
+	</div>	 
+
+	<div class="BDJHeadline01" role="heading" aria-level="2" align="left">
+        <em>Training Summary:</em>
+	</div>
+	<div class="ForHeaderDivAlign">
+		<table border="0" cellpadding="0" cellspacing="0" align="center" width="600" style="border-top:1px solid #dddddd;border-left:1px solid #dddddd;border-bottom:1px solid #dddddd;  font-size:11px; font-weight:normal; ">			
+			<tbody>
+				<tr>
+
+					<th width="20%" style="border-right:1px solid #dddddd;padding:3px;text-align:center;">Training Title</th>
+					<th width="15%" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;text-align:center;">Topic</th>
+					<th width="15%" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;text-align:center;"> Institute </th>
+					<th width="15%" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;text-align:center;">Country</th>
+					<th width="15%" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;text-align:center;">Location</th>
+					<th width="10%" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;text-align:center;">Year</th>
+					<th width="10%" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;text-align:center;"> Duration</th>
+				</tr>						
+				
+					<tr>
+						<td width="20%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Master Git and Github - Beginner to Expert			    
+						</td>			   
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Git and GitHub
+						</td>
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Udemy			    
+						</td>
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Bangladesh			    
+						</td>
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Bangladesh						
+						</td>
+						<td width="10%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							2023						
+						</td>
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							1 month						
+						</td>
+					</tr>
+				
+					<tr>
+						<td width="20%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							React.js Full Course in Bangla			    
+						</td>			   
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							React.js
+						</td>
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							YouTube			    
+						</td>
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Bangladesh			    
+						</td>
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Bangladesh						
+						</td>
+						<td width="10%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							2022						
+						</td>
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							6 month						
+						</td>
+					</tr>
+				
+					<tr>
+						<td width="20%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							React-TypeScript Bangla Tutorials			    
+						</td>			   
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							React-TypeScript
+						</td>
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							YouTube			    
+						</td>
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Bangladesh			    
+						</td>
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Bangladesh						
+						</td>
+						<td width="10%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							2022						
+						</td>
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							2 month						
+						</td>
+					</tr>
+				
+					<tr>
+						<td width="20%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Redux | Redux-toolkit Bangla Tutorials			    
+						</td>			   
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Redux-toolkit
+						</td>
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							YouTube			    
+						</td>
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Bangladesh			    
+						</td>
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Bangladesh						
+						</td>
+						<td width="10%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							2022						
+						</td>
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							2 month						
+						</td>
+					</tr>
+				
+					<tr>
+						<td width="20%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Master HTML and CSS			    
+						</td>			   
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							HTML and CSS
+						</td>
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Udemy			    
+						</td>
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Bangladesh			    
+						</td>
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Bangladesh						
+						</td>
+						<td width="10%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							2021						
+						</td>
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							2 month						
+						</td>
+					</tr>
+				
+					<tr>
+						<td width="20%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							JavaScript Beginner to Advanced			    
+						</td>			   
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							JavaScript
+						</td>
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							YouTube			    
+						</td>
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Bangladesh			    
+						</td>
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Bangladesh						
+						</td>
+						<td width="10%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							2021						
+						</td>
+						<td width="15%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							6 month						
+						</td>
+					</tr>
+				
+			</tbody>
+		</table>	 
+	</div>
+
+	<div class="BDJHeadline01" role="heading" aria-level="2" align="left">
+        <em>Professional Qualification:</em>
+	</div>	
+	<div class="ForHeaderDivAlign">
+		<table border="0" cellpadding="0" cellspacing="0" align="center" width="600" style="border-top:1px solid #dddddd;border-left:1px solid #dddddd;border-bottom:1px solid #dddddd;  font-size:11px; font-weight:normal;">
+			<tbody>
+				<tr>
+					<th width="25%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">Certification</th>
+					<th width="25%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">Institute</th>
+					<th width="25%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">Location</th>
+					<th width="12.5%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">From</th>
+					<th width="12.5%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">To</th>
+				</tr>			
+							
+					
+					<tr>
+						<td width="25%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Master Git and Github - Beginner to Expert				   
+						</td>					
+						<td width="25%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Udemy				    
+						</td>
+						<td width="25%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Bangladesh				    
+						</td>
+						<td width="12.5%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							 March 1, 2023				    	   
+						</td>
+						<td width="12.5%" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;" align="center">
+							 April 1, 2023							
+						</td>
+					</tr>
+					
+					<tr>
+						<td width="25%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Master HTML and CSS				   
+						</td>					
+						<td width="25%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Udemy				    
+						</td>
+						<td width="25%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							Bangladesh				    
+						</td>
+						<td width="12.5%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+							 January 20, 2021				    	   
+						</td>
+						<td width="12.5%" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;" align="center">
+							 April 30, 2021							
+						</td>
+					</tr>
+				
+			</tbody>
+		</table>		
+	</div>	
+
+	<div class="BDJHeadline01" role="heading" aria-level="2" align="left">
+        <em>Career and Application Information:</em>
+    </div>
+	<div class="ForHeaderDivAlign">
+		<table border="0" cellpadding="0" cellspacing="0" class="BDJNormalText01" align="center" width="600">		
+			<tbody>
+				
+					<tr class="BDJNormalText03">
+						<th width="32%" style="padding-left:5px; text-align:left; font-weight:normal;">Looking For</th>
+						<th width="2%" style="text-align:center; font-weight:normal;">:</th>
+						<th width="66%" style="font-weight:normal; text-align:left;">
+							Mid Level Job
+						</th>
+					</tr>				 
+				
+					<tr class="BDJNormalText03">
+						<td width="32%" align="left" style="padding-left:5px;">Available  For</td>
+						<td width="2%" align="center">:</td>
+						<td width="66%" align="left">
+							Full Time
+						</td>
+					</tr>				 
+				
+						<tr class="BDJNormalText03">
+							<td width="32%" align="left" style="padding-left:5px;">Present Salary</td>
+							<td width="2%" align="center">:</td>
+							<td width="66%" align="left">Tk. 10000</td>
+						</tr>					  
+					
+						<tr class="BDJNormalText03">
+							<td width="32%" align="left" style="padding-left:5px;">Expected Salary</td>
+							<td width="2%" align="center">:</td>
+							<td width="66%" align="left">Tk. 30000</td>
+						</tr>
+				
+					<tr class="BDJNormalText03">
+						<td width="32%" align="left" style="padding-left:5px;">Preferred  Job Category</td>
+						<td width="2%" align="center">:</td>
+						<td width="66%" align="left">
+							IT/Telecommunication,Data Entry/Operator/BPO,Design/Creative,Data Entry/Computer Operator,Graphic Designer
+						</td>
+					</tr>
+				
+					<tr class="BDJNormalText03">
+						<td width="32%" align="left" style="padding-left:5px;">Preferred  District </td>
+						<td width="2%" align="center">:</td>
+						<td width="66%" align="left">
+							Dhaka, Pabna			
+						</td>
+					</tr>
+				
+					<tr class="BDJNormalText03">
+						<td width="32%" align="left" style="padding-left:5px;" valign="top">Preferred Organization Types</td>
+						<td width="2%" align="center" valign="top">:</td>
+						<td width="66%" align="left">
+							Development Agency,Hospital,Developer,Web Media/Blog,Delivery Services Startup						
+						</td>
+					</tr>
+				
+			</tbody></table>		
+		
+	</div>
+	
+	<div class="BDJHeadline01" role="heading" aria-level="2" align="left">
+       <em>Specialization:</em>
+	</div>
+
+	
+			<!-- <tr>
+			<td colspan='6' align='left' class='BDJNormalText01'>
+			
+			</td>
+			</tr>			   -->
+			
+		<div class="ForHeaderDivAlign"> 	
+			<table border="0" cellpadding="0" cellspacing="0" align="center" width="600" style="border-top:1px solid #dddddd;border-left:1px solid #dddddd;border-bottom:1px solid #dddddd;font-size:12px; font-weight:normal;">				
+				<tbody>
+					<tr>
+						
+							<th width="40%" align="center" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+								Fields of Specialization
+							</th>						
+						
+					</tr>
+
+					<tr>
+						
+							<td width="40%" align="left" style="border-right:1px solid #dddddd;border-top:1px solid #dddddd;padding:3px;">
+								<ul><li> Web Developer/ Web Designer</li></ul><br> 							
+							</td>
+								  
+					</tr>	
+				</tbody>	
+			</table>				 
+	
+			<!-- </table> -->
+		</div>
+
+	<div class="BDJHeadline01" role="heading" aria-level="2" align="left">
+      <em>Personal Details :</em>
+    </div>
+	
+	<div class="ForHeaderDivAlign"> 
+		<table border="0" cellpadding="0" cellspacing="0" align="center" width="600" class="BDJNormalText01">
+			<tbody>		
+							
+					<tr class="BDJNormalText03">			 
+						<th width="22%" style="padding-left:5px; font-weight:normal; text-align:left;">Father's Name </th>
+						<th width="2%" style="font-weight:normal; text-align:center;">:</th>
+						<th width="76%" align="left" style="font-weight:normal; text-align:left">
+							MD ABUL SARDER
+						</th>
+					</tr>
+				
+					<tr class="BDJNormalText03">
+						<td width="22%" align="left" style="padding-left:5px;">Mother's Name </td>
+						<td width="2%" align="center">:</td>
+						<td width="76%" align="left">
+							MST SHIRIN AFROZA
+						</td>
+					</tr>				 
+				
+				<tr class="BDJNormalText03">
+					<td width="22%" align="left" style="padding-left:5px;">Date  of Birth</td>
+					<td width="2%" align="center">:</td>
+					<td width="76%" align="left">
+					
+						<!--  December 28, 2002 -->
+						28 Dec 2002	 
+					</td>
+				</tr>
+
+				
+				<tr class="BDJNormalText03">
+					<td width="22%" align="left" style="padding-left:5px;">Gender</td>
+					<td width="2%" align="center">:</td>
+					<td width="76%" align="left">
+					Male
+					</td>
+				</tr>
+
+				
+					<!--Height:-->
+				
+					
+						<tr class="BDJNormalText03">
+							<td width="22%" align="left" style="padding-left:5px;">Height (Meter)</td>
+							<td width="2%" align="center">:</td>
+							<td width="76%" align="left">
+								1.7373
+							</td>
+						</tr>
+					
+
+					<!--Weight:-->
+					
+						<tr class="BDJNormalText03">
+							<td width="22%" align="left" style="padding-left:5px;">Weight (Kg)</td>
+							<td width="2%" align="center">:</td>
+							<td width="76%" align="left">
+								63
+							</td>
+						</tr>
+					
+
+					<!-- Passport No -->
+					
+
+					<!-- Passport Issue Date -->
+					
+				<tr class="BDJNormalText03">
+					<td width="22%" align="left" style="padding-left:5px;">Marital  Status </td>
+					<td width="2%" align="center">:</td>
+					<td width="76%" align="left">
+					Unmarried
+					</td>
+				</tr>
+
+				
+				<tr class="BDJNormalText03">
+					<td align="left" style="padding-left:5px;">Nationality</td>
+					<td align="center">:</td>
+					<td align="left">
+						Bangladeshi
+					</td>
+				</tr>
+
+				
+					<tr class="BDJNormalText03">
+					<td align="left" style="padding-left:5px;">Religion</td>
+					<td align="center">:</td>
+					<td align="left">
+					Islam
+					</td>
+					</tr>
+				
+					<tr class="BDJNormalText03">
+					<td align="left" style="padding-left:5px;">Permanent  Address</td>
+					<td align="center">:</td>
+					<td align="left">
+					6683-KUSHIARA, Puran Bharenga, Bera, Pabna 6683
+					</td>
+					</tr>
+				
+						<tr class="BDJNormalText03">
+							<td align="left" style="padding-left:5px;">Current  Location</td>
+							<td align="center">:</td>
+							<td align="left">			
+								Dhaka	
+							</td>
+						</tr>
+					
+						<tr class="BDJNormalText03">
+							<td align="left" style="padding-left:5px;">Blood Group</td>
+							<td align="center">:</td>
+							<td align="left">			
+								O+	
+							</td>
+							</tr>
+										
+			</tbody>
+		</table>	
+	</div>
+
+
+<center>
+<div id="divCopyRight" class="BDJCopyRight" style="border-top:1px solid #999999; width:600px;">
+	
+</div>
+</center>
+
+
+
+
+<div id="hid_MainCV"></div>
+<!--LC Converted Cv:End-->
+
+<!--Old Formate CV: Start-->
+
+
+
+<div id="hid_MainCV_OldFormate" style="display:none;"></div>
+<!--Old Formate CV: End-->
+
+<input type="hidden" id="imgSrc" value="https://storage.googleapis.com/bdjobs/mybdjobs/photos/4425001-4450000/1784448189y0t1x.jpg?var=2xc6f73hC05WrA1">
+
+
+        
+
+</body>
+</html>

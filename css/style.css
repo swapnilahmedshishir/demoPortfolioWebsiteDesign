@@ -175,7 +175,6 @@ span {
 
 /* about section css  */
 .about {
-
     display: flex;
     justify-content: center;
     align-items: center;
@@ -184,11 +183,12 @@ span {
 }
 
 .about_img img {
-    width: 25vw;
+    width: 35vw;
     height: 100%;
 }
 
 .heading {
+   
     text-align: center;
     font-size: 4.5rem;
 }
@@ -204,10 +204,14 @@ span {
 
 .about_content p {
     font-size: 1.6rem;
-    margin: 2rem 0 3rem;
+    margin: 2rem 0 1rem;
+}
+.about_content .bio_para{
+ margin-top: 0rem;
+ margin-bottom: 5rem;
 }
 
-.about_content #more {
+/* .about_content #more {
     display: none;
     color: var(--text-color);
 }
@@ -215,9 +219,32 @@ span {
 .about_content #dot {
     font-size: 3.3rem;
     color: var(--text-color);
+} */
+
+.info{
+    width: 100%;
+    float: left;
 }
-
-
+.info ul {
+    margin: 0;
+}
+.info ul li {
+    /* margin-right: 0 40px 20px 0; */
+    margin-right: 14px;
+    display: inline-block;
+}
+.info ul li span:first-child {
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 1.6rem;
+    padding-bottom: 10px;
+    color: var(--main-color);
+}
+.info ul li span {
+    display: block;
+    font-size: 1.6rem;
+    color: var(--text-color);
+}
 /* services section css */
 
 .services h2 {
@@ -261,11 +288,126 @@ span {
     margin: 1rem 0 3rem;
 }
 
+/* skill section */
+.skill{
+    min-height: 150vh;
+    background: var(--second-bg-color);
+}
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto;
+    gap: 90px 30px;
+    place-items: center;
+    align-content: center;
+    padding-top: 50px;
+    
+}
+.skills{
+    width: 160px;
+    height: 160px;
+    /* background: chartreuse; */
+    position: relative;
+}
+.outer{
+    height: 160px;
+    width: 160px;
+    border-radius: 50%;
+    border: 20px solid #252525;
+    /* padding: 20px; */
+    /* box-shadow: 6px 6px 10px -1px rgba(0,0,0,0.15) ,
+                -6px -6px 10px -1px rgba(51, 50, 50, 0.7); */
+
+ 
+}
+.inner{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+    /* border: 19px solid red; */
+    /* box-shadow: inset 4px 4px 6px -1px rgba(0,0,0,0.2),
+                inset -4px -4px 6px -1px rgba(255,255,255,0.7),
+                -0.5px -0.5px 0px rgba(255,255,255,1),
+                0.5px 0.5px 0px rgba(0,0,0,0.15),
+                0px 12px 10px -10px rgba(0,0,0,0.05) ; */
+
+}
+.number{
+    font-weight: 600px;
+    color: var(--text-color);
+    font-size: x-large;
+}
+circle{
+    fill: none;
+    stroke: url(#GradientColor);
+    stroke-width: 20px;
+    animation: anim 2s linear forwards;
+}
+svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+@keyframes anim{
+    100%{
+        stroke-dashoffset: 165;
+    }
+}
+.skill_name{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.html_circle{
+     stroke-dasharray: 531;
+    stroke-dashoffset: 531;
+}
+.css_cr{
+    stroke-dasharray: 501;
+    stroke-dashoffset: 501;
+}
+.js_cr{
+    stroke-dasharray: 454;
+    stroke-dashoffset: 454;
+}
+.react_cr{
+    stroke-dasharray: 413;
+    stroke-dashoffset: 413;
+}
+.bst_cr{
+    stroke-dasharray: 531;
+    stroke-dashoffset: 531;
+}
+.git_cr{
+    stroke-dasharray: 395;
+    stroke-dashoffset: 395;
+}
+
+.experience{
+    padding-top: 150px;
+}
+.experience_box{
+    background: var(--bg-color)!important;
+}
+.experience_box h3{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.experience_box p{
+    font-weight: 500;
+    text-transform: uppercase;
+}
 
 /* portfolio section design css  */
 
 .portfolio {
-    background: var(--second-bg-color);
+    background: var(--bg-color);
 }
 
 .portfolio h2 {
@@ -339,12 +481,14 @@ span {
 
 .portfolio_layer a i {
     font-size: 2rem;
-    color: var(--second-bg-color);
+    color: var(--bg-color);
 }
 
 
 /* contact us section design */
-
+.contact{
+    background: var(--second-bg-color);
+}
 .contact h2 {
     margin-bottom: 3rem;
 }
@@ -388,7 +532,7 @@ span {
     padding: 1.5rem;
     font-size: 1.6rem;
     color: var(--text-color);
-    background: var(--second-bg-color);
+    background: var(--bg-color);
     border-radius: .8rem;
     margin: .7rem 0;
 }
@@ -413,7 +557,7 @@ span {
     justify-content: space-between;
     flex-wrap: wrap;
     padding: 2rem 9%;
-    background: var(--second-bg-color);
+    background: var(--bg-color);
 }
 
 .footer_text p {
@@ -592,6 +736,16 @@ span {
         grid-template-columns: repeat(1, 1fr);
 
     }
+    .skill{
+        min-height: 380vh;
+    }
+    .container{
+       
+        grid-template-columns: auto auto ;
+        grid-template-rows: auto auto auto;
+        gap: 50px 10px;        
+    }
+    
 }
 
 @media (max-width: 450px) {

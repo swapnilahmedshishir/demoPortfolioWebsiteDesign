@@ -73,7 +73,7 @@ ScrollReveal().reveal('.home_content p, .about_content ', { origin: 'right' });
 /* ============== typed js ===========*/
 
 const typed = new Typed('.multiple_text', {
-    strings: ['Front-end Developer','Blogger','YouTuber'],
+    strings: ['Front end web Developer','Web designer','Web Coder'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
@@ -88,8 +88,8 @@ function downloadFile() {
     let downloadLink = document.createElement('a');
 
     // Set the download link's properties
-    downloadLink.setAttribute('href', './cv/cv.txt');
-    downloadLink.setAttribute('download', './cv/cv.txt');
+    downloadLink.setAttribute('href', './cv/MD_SWAPNIL_AHMMED_SHISHIR_CV.doc');
+    downloadLink.setAttribute('download', './cv/MD_SWAPNIL_AHMMED_SHISHIR_CV.doc');
 
     // Append the download link to the document
     document.body.appendChild(downloadLink);
@@ -121,3 +121,96 @@ function showMore() {
         console.error('Unable to find hidden text or button element');
     }
 }
+
+/* ============== progress bar ===========*/
+// window.setTimeout(function(){
+//     $('.skill-progress').addClass("go");
+//   }, 1000);
+  
+ 
+  
+
+// html
+let number1 = document.getElementById("number1");
+let counter1=0;
+setInterval(()=>{
+      if(counter1 === 90){
+          clearInterval();
+      }else{
+
+          counter1 += 1;
+      number1.innerHTML=counter1 + "%";
+      }
+     
+  },20)
+
+// css
+let number2 = document.getElementById("number2");
+let counter2=0;
+setInterval(()=>{
+      if(counter2== 85){
+          clearInterval();
+      }else{
+
+          counter2 += 1;
+      number2.innerHTML=counter2 + "%";
+      }
+     
+  },24)
+
+  // javascript
+  let number3 = document.getElementById("number3");
+  let counter3=0;
+  setInterval(()=>{
+      if(counter3== 77){
+          clearInterval();
+      }else{
+
+          counter3 += 1;
+      number3.innerHTML=counter3 + "%";
+      }
+     
+  },26)
+
+//   react
+let number4 = document.getElementById("number4");
+  
+let counter4=0;
+setInterval(()=>{
+      if(counter4== 70){
+          clearInterval();
+      }else{
+
+          counter4 += 1;
+      number4.innerHTML=counter4 + "%";
+      }
+     
+  },28)
+
+//   bootstrap
+let number5 = document.getElementById("number5");
+let counter5=0;
+setInterval(()=>{
+      if(counter5== 90){
+          clearInterval();
+      }else{
+
+          counter5 += 1;
+      number5.innerHTML=counter5 + "%";
+      }
+     
+  },20)
+
+//   git & github
+let number6 = document.getElementById("number6");
+let counter6=0;
+setInterval(()=>{
+      if(counter6== 67){
+          clearInterval();
+      }else{
+
+          counter6 += 1;
+      number6.innerHTML=counter6 + "%";
+      }
+     
+  },31)
