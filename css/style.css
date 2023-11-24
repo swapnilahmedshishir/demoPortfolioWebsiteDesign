@@ -462,11 +462,13 @@ svg {
 
 .portfolio_layer h4 {
     font-size: 3rem;
+    
 }
 
 .portfolio_layer p {
     font-size: 1.6rem;
     margin: 3rem 0 1rem;
+    
 }
 
 .portfolio_layer a {
