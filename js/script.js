@@ -214,3 +214,16 @@ setInterval(()=>{
       }
      
   },31)
+//   node  js
+let number7 = document.getElementById("number7");
+let counter7=0;
+setInterval(()=>{
+      if(counter7== 67){
+          clearInterval();
+      }else{
+
+          counter7 += 1;
+      number7.innerHTML=counter6 + "%";
+      }
+     
+  },31)
