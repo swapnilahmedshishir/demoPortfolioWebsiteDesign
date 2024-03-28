@@ -88,8 +88,8 @@ function downloadFile() {
     let downloadLink = document.createElement('a');
 
     // Set the download link's properties
-    downloadLink.setAttribute('href', './cv/MD_SWAPNIL_AHMMED_SHISHIR_CV.doc');
-    downloadLink.setAttribute('download', './cv/MD_SWAPNIL_AHMMED_SHISHIR_CV.doc');
+    downloadLink.setAttribute('href', './cv/SWAPNIL_AHMMED_SHISHIR_WEB_DEVELOPER_CV_pbBW.pdf');
+    downloadLink.setAttribute('download', './cv/SWAPNIL_AHMMED_SHISHIR_WEB_DEVELOPER_CV_pbBW.pdf');
 
     // Append the download link to the document
     document.body.appendChild(downloadLink);
